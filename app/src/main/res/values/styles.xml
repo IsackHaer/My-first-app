@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <style name="Baloo_34">
+        <item name="fontFamily">@font/baloo</item>
+        <item name="android:textSize">34sp</item>
+    </style>
+    
+</resources>
