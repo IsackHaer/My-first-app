@@ -2,4 +2,5 @@
     <string name="app_name">My Dice App</string>
     <string name="Roll">ROLL DICE</string>
     <string name="YouNailedIt">YOU NAILED IT!</string>
+    <string name="TimesInARow">%1$s times in a row!</string>
 </resources>
